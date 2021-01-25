@@ -343,7 +343,6 @@ body {
     background-color: #f7f5f0;
     transform: translate(100%);
     margin-left: -100%;
-
     transition: transform 0.5s ease-in;
   }
   .nav-links li {
